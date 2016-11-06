@@ -1,7 +1,7 @@
 # 黒き空のハルピュイア #
 
 [小説家になろう](http://syosetu.com/) にて投稿している小説の原文。  
-小説ページは[こちら](http://ncode.syosetu.com/n3451do/)
+小説ページは[こちら](http://ncode.syosetu.com/n3451do/)  
 誤字脱字修正のプルリクエストなどは歓迎します。  
 
 ## Features ##
